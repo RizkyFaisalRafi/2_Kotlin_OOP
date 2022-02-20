@@ -1,4 +1,4 @@
-package App
+package Filekt
 
 import inheritance.Manager
 import inheritance.employe

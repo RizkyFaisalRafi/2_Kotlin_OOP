@@ -1,4 +1,4 @@
-package App
+package Filekt
 
 import dataClass.Person
 // Dari 1 class bisa bikin lebih dari 1 object
